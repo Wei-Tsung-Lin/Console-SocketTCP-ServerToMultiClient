@@ -1,6 +1,6 @@
 # Console-SocketTCP-ServerToMultiClient
 
-  * Many Client to OneServer TCP Network transfer string  
+  * Many Client to OneServer and Server BroadCast To many Client TCP Network transfer string  
 
 # OverView
 
